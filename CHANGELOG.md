@@ -1,5 +1,10 @@
 # Change Log
 
+## v1.4.3
+- Fixing the issue around floating point numbers error (rounding numbers incorrectly on discounted items)
+- Direct property access log messages
+- Changing downloadable file name to include version number
+
 ## v1.4.2
 - Adding Qatar to the supported countries list
 
